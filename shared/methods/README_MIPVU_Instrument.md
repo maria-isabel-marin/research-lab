@@ -15,10 +15,10 @@ This instrument has been developed and refined through several interconnected re
 ### Research Lineage
 
 1. **Initial Development**  
-   As part of the research project *"Propuesta metodológica para el etiquetado de un corpus lingüístico con fines de identificación de metáforas conceptuales en español"* (Methodological Proposal for the Annotation of a Linguistic Corpus for the Identification of Conceptual Metaphors in Spanish), led by **Prof. María Isabel Marín Morales** as principal investigator.
+   As part of the research project *"Propuesta metodológica para el etiquetado de un corpus lingüístico con fines de identificación de metáforas conceptuales en español"* (Methodological Proposal for the Annotation of a Linguistic Corpus for the Identification of Conceptual Metaphors in Spanish), led by **PhD(c) María Isabel Marín Morales** as principal investigator.
 
 2. **Doctoral Research**  
-   Further refined in Prof. Marín Morales' doctoral research at the **University of Groningen, The Netherlands**: *"From Metaphor to Narrative: Computational Modeling of Cultural Discourse through MELT and Large Language Models"*.
+   Further refined in PhD(c) Marín Morales' doctoral research at the **University of Groningen, The Netherlands**: *"From Metaphor to Narrative: Computational Modeling of Cultural Discourse through MELT and Large Language Models"*.
 
 3. **Undergraduate Thesis Projects**  
    Applied and validated as principal advisor in the following undergraduate research projects:
