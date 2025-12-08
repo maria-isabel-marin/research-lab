@@ -219,8 +219,7 @@ In this entry, the verbal form "construido" (built/constructed) is identified as
 If you use this instrument in your research, please cite:
 
 ```
-Marín Morales, M. I. (2025). MIPVU-Based Metaphor Analysis Instrument. 
-ExMachina Research Seminar. [DOI/Repository URL]
+Marín Morales, M. I. (2025). MIPVU-Based Metaphor Analysis Instrument (Version 1.0) [Research instrument]. GitHub. https://github.com/maria-isabel-marin/research-lab/tree/main/shared/methods
 ```
 
 ## License
@@ -233,10 +232,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 Candidata a doctora
 Universidad de Groningen  
 m.i.marin.morales@rug.nl
-
-## Acknowledgments
-
-This instrument has been developed through collaborative work within the ExMachina Research Seminar and refined through multiple research projects examining conceptual metaphors in diverse discourse contexts, from political testimony to literary narratives of mental illness.
 
 ## References
 
