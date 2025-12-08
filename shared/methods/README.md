@@ -6,7 +6,7 @@ This repository contains a systematized instrument for the identification, annot
 
 ## File
 
-**[`MIPVU_Metaphor_Analysis_Instrument.xlsx`](MIPVU_Metaphor_Analysis_Instrument.xlsx)**
+**[⬇️ Download Instrument (XLSX)](https://raw.githubusercontent.com/maria-isabel-marin/research-lab/main/shared/methods/MIPVU_Metaphor_Analysis_Instrument.xlsx)**
 
 ## Background and Development
 
