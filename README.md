@@ -9,24 +9,25 @@ The overarching goal is to foster **transparency, reproducibility, and collabora
 
 ## 📂 Repository structure  
 
+```text
 research-lab/
 │
 ├── projects/ # Individual research projects
-│ ├── thesis/ # PhD thesis materials
-│ ├── paper-ucl/ # Example: UCL book chapter
-│ ├── paper-yag/ # Example: YAG conference paper
-│ └── tdg/ # Undergraduate/graduate theses
+│   ├── thesis/       # PhD thesis materials
+│   ├── paper-ucl/    # Example: UCL book chapter
+│   ├── paper-yag/    # Example: YAG conference paper
+│   └── tdg/          # Undergraduate/graduate theses
 │
 ├── shared/ # Resources potentially reused across projects
-│ ├── corpus/ # Common corpora or lexical resources
-│ ├── methods/ # Generic scripts or functions
-│ └── docs/ # Guidelines and manuals
+│   ├── corpus/   # Common corpora or lexical resources
+│   ├── methods/  # Generic scripts or functions
+│   └── docs/     # Guidelines and manuals
 │
 ├── docs/ # Global documentation
-│ ├── README.md # This file
-│ ├── LICENSE.md # Licensing information
-│ ├── CITATION.cff # How to cite this repository
-│ └── methodology.md # General pipeline description
+│   ├── README.md      # This file
+│   ├── LICENSE.md     # Licensing information
+│   ├── CITATION.cff   # How to cite this repository
+│   └── methodology.md # General pipeline description
 │
 └── requirements.txt # Global dependencies (Python/R)
 
