@@ -5,7 +5,6 @@ It brings together corpora, methods, and outputs from different research lines, 
 
 The overarching goal is to foster **transparency, reproducibility, and collaboration** in the study of how metaphors structure cultural narratives across social, political, and ecological domains among others.  
 
----
 
 ## 📂 Repository structure  
 
@@ -31,8 +30,7 @@ research-lab/
 │
 └── requirements.txt # Global dependencies (Python/R)
 
-
----
+```
 
 ## 🔬 Research focus  
 
